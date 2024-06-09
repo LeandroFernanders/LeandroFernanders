@@ -1,8 +1,8 @@
-## Bem-vindo(a) aqui você encontras algums lista de codígos codíficados👨🏻‍💻
+### Bem-vindo(a) aqui você encontras algums lista de codígos codíficados👨🏻‍💻
 Meu nome é Leandro e sou developer com especialização em várias tecnologias da web. Estou empolgado para compartilhar minha experiência e conhecimentos em frameworks e linguagens que impulsionam a criação de aplicativos web modernos e eficientes..
 
 
-##  Minhas Especialidades
+###  Minhas Especialidades
 JavaScript; Css; Html; ReactJS; NodeJS; TypeScript; Angular..
 
  <div>
@@ -13,7 +13,7 @@ JavaScript; Css; Html; ReactJS; NodeJS; TypeScript; Angular..
     
 <div style="display: inline_block"><br>
 
-  ## frameworks
+  ###  Frameworks
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
