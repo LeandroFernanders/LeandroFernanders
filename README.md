@@ -1,5 +1,8 @@
 ## Bem-vindo(a) aqui você encontras algums lista de codígos codíficados👨🏻‍💻
-Meu nome é Leandro e sou developer com especialização em várias tecnologias da web. Estou empolgado para compartilhar minha experiência e conhecimentos em frameworks e linguagens que impulsionam a criação de aplicativos web modernos e eficientes. Aqui estão as principais tecnologias com as quais trabalho: JAVASCRIPT; CSS; HTML; REACTJS; NODEJS; TYPESCRIPT ENRTES OUTRAS..
+Meu nome é Leandro e sou developer com especialização em várias tecnologias da web. Estou empolgado para compartilhar minha experiência e conhecimentos em frameworks e linguagens que impulsionam a criação de aplicativos web modernos e eficientes..
+
+##Minhas Especialidades
+JavaScript; Css; Html; ReactJS; NodeJS; TypeScript; Angular..
 
  <div>
    <a href="https://github.com/LeandroFernanders">
@@ -24,7 +27,7 @@ Meu nome é Leandro e sou developer com especialização em várias tecnologias 
  
 <br>
  
-### Redes Sociais!
+### Redes Sociais
  
 <div> 
   <a href="https://www.linkedin.com/in/francisco-leandro-fernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
