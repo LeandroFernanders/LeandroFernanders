@@ -1,4 +1,4 @@
-### Bem-vindo(a) aqui você encontras algums lista de codígos codíficados👨🏻‍💻
+### Bem-vindo(a) aqui você encontras algumas linhas de codígos codíficados👨🏻‍💻
 Meu nome é Leandro e sou developer com especialização em várias tecnologias da web. Estou empolgado para compartilhar minha experiência e conhecimentos em frameworks e linguagens que impulsionam a criação de aplicativos web modernos e eficientes..
 
 
